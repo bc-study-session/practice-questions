@@ -5,5 +5,6 @@
  * @returns {number} Returns the clamped number.
  */
 export default function clamp(value, lower, upper) {
+  console.log();
   throw "Not implemented";
 }
